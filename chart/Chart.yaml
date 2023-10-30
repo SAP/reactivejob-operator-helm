@@ -3,4 +3,4 @@ name: reactivejob-operator
 description: A Helm chart for https://github.com/sap/reactivejob-operator
 type: application
 version: 0.1.7
-appVersion: v0.1.5
+appVersion: v0.1.6
