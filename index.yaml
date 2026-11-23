@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   reactivejob-operator:
   - apiVersion: v2
+    appVersion: v0.1.63
+    created: "2026-11-23T07:23:33.066344538Z"
+    description: A Helm chart for https://github.com/sap/reactivejob-operator
+    digest: 4a9d8b16dbb9fc4fdde11b1c9b0f9af338b93a9afb473b83dabcbf9336936bc2
+    name: reactivejob-operator
+    type: application
+    urls:
+    - https://github.com/SAP/reactivejob-operator-helm/releases/download/0.1.67/reactivejob-operator-0.1.67.tgz
+    version: 0.1.67
+  - apiVersion: v2
     appVersion: v0.1.62
     created: "2026-11-02T07:31:18.530938426Z"
     description: A Helm chart for https://github.com/sap/reactivejob-operator
@@ -671,4 +681,4 @@ entries:
     urls:
     - https://github.com/SAP/reactivejob-operator-helm/releases/download/0.1.0/reactivejob-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2026-11-02T07:31:18.528326515Z"
+generated: "2026-11-23T07:23:33.064075368Z"
